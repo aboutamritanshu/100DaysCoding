@@ -1,0 +1,1 @@
+A basic introduction - I am Amritanshu currently persuing B-Tech, approaching my final year. Here I will be doing 100 days and 100 codes (even more). I will be uploading the codes daily. I have picked up the questions from geeksforgeeks>All dsa problems. 
