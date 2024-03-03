@@ -6,7 +6,6 @@ class Solution
         {
             return new long[0];
         }
-
         long[] fibonacciNumbers = new long[n];
         fibonacciNumbers[0] = 1;
         if (n > 1)
