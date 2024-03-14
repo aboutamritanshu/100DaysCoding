@@ -1,5 +1,5 @@
-class Solution {
-
+class Solution
+    {
     void reverseInGroups(ArrayList<Integer> arr, int n, int k) {
         for (int i = 0; i < n; i += k) {
             int left = i;
