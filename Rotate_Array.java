@@ -11,7 +11,6 @@ class Solution
             end--;
         }
     }
-
     static void rotateArr(int arr[], int d, int n)
     {
         d = d % n;
