@@ -1,5 +1,4 @@
 class Tree {
-
     public ArrayList<Integer> serialize(Node root) {
         ArrayList<Integer> result = new ArrayList<>();
         serializeHelper(root, result);
